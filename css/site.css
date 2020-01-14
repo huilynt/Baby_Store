@@ -1,0 +1,22 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
+body {
+  font-family: Helvetica, sans-serif;
+  font-size: 14px;
+}
+img {
+  max-width: 100%;
+}
+.page-title {
+  font-size: 24px;
+  font-weight: bold;
+}
+.sub-title {
+  font-size: 20px;
+}
+.price {
+  text-decoration: line-through;
+}
